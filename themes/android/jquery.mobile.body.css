@@ -10,6 +10,7 @@
 	background-image:     -ms-linear-gradient(top, #9c9c9c, #828182); /* IE10 */
 	background-image:      -o-linear-gradient(top, #9c9c9c, #828182); /* Opera 11.10+ */
 	background-image:         linear-gradient(top, #9c9c9c, #828182);
+	border-bottom: 1px solid #cecece;
 }
 
 .android .ui-page {
