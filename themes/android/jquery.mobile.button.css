@@ -1,0 +1,22 @@
+.android .ui-btn-corner-all {
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	font-weight: normal;
+}
+
+.android .ui-shadow {
+	-moz-box-shadow: 0 0 0 0;
+	-webkit-box-shadow: 0 0 0 0;
+	box-shadow: 0 0 0 0;
+}
+
+/* theme C */
+.android .ui-btn-up-c {
+	border: 1px solid #AAA;
+}
+
+.android .ui-btn-down-c {
+	background: #ffae00;
+}
+
