@@ -1,0 +1,24 @@
+.ui-bar-a {
+	border: 1px solid 		#2A2A2A;
+	background: 			#9c9c9c;
+	color: 					#ffffff;
+	font-weight: bold;
+	text-shadow: 0 0 2px #000000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#9c9c9c), to(#828182)); /* Saf4+, Chrome */
+	background-image: -webkit-linear-gradient(top, #9c9c9c, #828182); /* Chrome 10+, Saf5.1+ */
+	background-image:    -moz-linear-gradient(top, #9c9c9c, #828182); /* FF3.6 */
+	background-image:     -ms-linear-gradient(top, #9c9c9c, #828182); /* IE10 */
+	background-image:      -o-linear-gradient(top, #9c9c9c, #828182); /* Opera 11.10+ */
+	background-image:         linear-gradient(top, #9c9c9c, #828182);
+}
+
+.android .ui-page {
+	background: #181818;
+	color: #fff;
+	text-shadow: 0 1px 0 black;
+}
+
+.android .ui-header {
+	background: #9c9c9c;
+}
+
