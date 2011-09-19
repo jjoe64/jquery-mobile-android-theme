@@ -23,3 +23,7 @@
 	background: #9c9c9c;
 }
 
+.android .ui-title {
+	color: #fff;
+	text-shadow: 0 -1px 1px #254F7A;
+}
