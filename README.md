@@ -1,4 +1,8 @@
-custom theme to match android ui guidelines
+About
+----------
+This is a custom jquery mobile theme, that matches the Holo theme family in Android 4.0 Theme.Holo.Dark and Theme.Holo.Light.
+
+http://developer.android.com/design/building-blocks/buttons.html
 
 How to use
 -----------
@@ -19,4 +23,8 @@ Special
 See
 -----
 http://www.jjoe64.com/2011/09/android-theme-for-jquery-mobile.html
+
+How to build
+----------------
+The basic css is generated with the jquery mobile theme generator. Then all rules are wrapped with .android class. Compile it with SASS.
 
