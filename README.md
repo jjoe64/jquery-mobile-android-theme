@@ -11,10 +11,10 @@ How to use
 * Download the sources (js, css, themes-folder) from github
 * Include it in your html file:
 
-> &lt;link rel="stylesheet" href="themes/android-theme.css" /&gt;
-> &lt;script type="text/javascript"&gt;
-> var DEBUG_ANDROID_THEME=true
-> &lt;/script&gt;
+> &lt;link rel="stylesheet" href="themes/android-theme.css" /&gt;<br>
+> &lt;script type="text/javascript"&gt;<br>
+> var DEBUG_ANDROID_THEME=true<br>
+> &lt;/script&gt;<br>
 > &lt;script type="text/javascript" src="jquery.mobile.android-theme.js"&gt;&lt;/script&gt;
 
 Special
