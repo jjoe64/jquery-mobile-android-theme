@@ -9,7 +9,7 @@ How to use
 * Download the sources (js, css, themes-folder) from github
 * Include it in your html file:
 
-<link rel="stylesheet" href="jquery.mobile.android-theme.css" />
+<link rel="stylesheet" href="themes/android-theme.css" />
 <script type="text/javascript">
 var DEBUG_ANDROID_THEME=true
 </script>
